@@ -5,7 +5,6 @@ Augmentation of image-label pairs (noise, zoom, rotation, resize)
 @author: Maxim Ziatdinov, Chun Yin Wong
 
 """
-
 import numpy as np
 from scipy import ndimage
 import cv2
